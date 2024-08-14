@@ -1,6 +1,6 @@
 <div align="center"> 
  
-![](https://komarev.com/ghpvc/?username=angeIcorpse&color=lightgrey&label=✦)
+![](https://komarev.com/ghpvc/?username=angeIcorpse&color=252525&label=✦)
 
 <p align="center"> <img width="400" src="https://files.catbox.moe/polngz.png">
 
