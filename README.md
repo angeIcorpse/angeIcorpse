@@ -6,4 +6,4 @@
 
 <div align="center"> 
  
-<sup>[**RENTRY**](https://rentry.co/domainclash)⠀⠀ ⠀⠀ [**ATABOOK**](https://soulripper.atabook.org/)</sub></sup>
+<sub>[**RENTRY**](https://rentry.co/domainclash)⠀⠀ ⠀⠀ [**ATABOOK**](https://soulripper.atabook.org/)</sub>
