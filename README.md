@@ -1,3 +1,9 @@
-<img width="800" src="https://files.catbox.moe/xuh78o.jpeg">
+<div align="center"> 
+  
+![](https://komarev.com/ghpvc/?username=angeIcorpse&color=lightgrey&label=ꔫ)
 
-<img width="600" src="https://files.catbox.moe/7kfe03.jpeg">
+<p align="center"> <img width="200" src="https://files.catbox.moe/lwz7bb.png">
+
+<div align="center"> 
+ 
+<sup>[**RENTRY**](https://rentry.co/domainclash)⠀⠀ ⠀⠀ [**ATABOOK**](https://soulripper.atabook.org/)</sub></sup>
